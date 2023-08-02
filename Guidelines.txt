@@ -1,0 +1,12 @@
+Jsonify is used to present the output of the API in a beautiful way and will return the content as 
+ json type.
+
+In "/square/<int:a>", the square refers to the function, the int refers to the type of the input which
+ and be changed to anything like string, float etc. "a" refers to the input.
+
+Click on the Running on http: link which appear in terminal to get the output. Mention the function 
+ and the input in the url after that otherwise the default home page will only get returned.
+
+Hosting - WSGI stands for Web Server Gateway Interface. It is a specification that defines how Python
+ web applications can be communicated with web servers. Flask is a Python web framework that supports
+ WSGI. This means that Flask applications can be run on any WSGI-compliant web server.
